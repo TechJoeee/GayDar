@@ -146,7 +146,7 @@ export default function Home() {
           <div className="hero-intro">
             <Image
               className="brand-logo"
-              src="/gaydar-logo-v2.png"
+              src="/gaydar-logo.webp"
               alt="GayDar"
               width={951}
               height={1024}
