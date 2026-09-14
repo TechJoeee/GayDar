@@ -5,9 +5,9 @@ export const metadata: Metadata = {
   title: "GAYDAR",
   description: "A ridiculous 5-question meme quiz with a fake Gaydar score.",
   icons: {
-    icon: "/gaydar-logo-v2.png",
-    shortcut: "/gaydar-logo-v2.png",
-    apple: "/gaydar-logo-v2.png",
+    icon: "/gaydar-logo.webp",
+    shortcut: "/gaydar-logo.webp",
+    apple: "/gaydar-logo.webp",
   },
 };
 
